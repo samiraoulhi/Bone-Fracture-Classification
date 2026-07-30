@@ -31,5 +31,5 @@ pip install -r requirements.txt
 
 ### 6. Lancer l'application
 ```bash
-python -m streamlit run steamlit_class.py
+python -m streamlit run streamlit_class.py
 ```
